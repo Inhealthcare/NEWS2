@@ -1,0 +1,18 @@
+{
+  "name": "@ihdt/news2",
+  "version": "1.0.0",
+  "description": "NEWS2 is the latest version of the National Early Warning Score (NEWS), first produced in 2012 and updated in December 2017, which advocates a system to standardise the assessment and response to acute illness.",
+  "main": "chart.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ops@inhealthcare.co.uk",
+  "license": "MIT",
+  "devDependencies": {
+    "d3": "^7.8.5",
+    "jquery": "^3.7.1",
+    "jquery-ui": "^1.13.2"
+  }
+}
